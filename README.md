@@ -7,7 +7,7 @@ Software yang di butuhkan untuk pengerjaan soal :
 - browser (chrome)
 
 cara menjalankan code :
--jalankan xampp
--nyalakan apache & MySQL
--letakkan file di folder htdocs (c:/xampp/htdocs/nama_folder)
--run code di browser dengan mengetikkan localhost/nama_folder/nama_file.php di search bar browser
+- jalankan xampp
+- nyalakan apache & MySQL
+- letakkan file di folder htdocs (c:/xampp/htdocs/nama_folder)
+- run code di browser dengan mengetikkan localhost/nama_folder/nama_file.php di search bar browser
